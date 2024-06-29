@@ -1,4 +1,4 @@
-# <div style="text-align: center; font-size: 44px; font-weight: bold;">
+<div style="text-align: center; font-size: 44px; font-weight: bold;">
   <p>Final Project</p>
 </div>
 <div style="text-align: center;">
