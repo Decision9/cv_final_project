@@ -1,8 +1,8 @@
-<div style="text-align: center; font-size: 44px; font-weight: bold;">
+# <div style="text-align: center; font-size: 44px; font-weight: bold;">
   <p>Final Project</p>
 </div>
 <div style="text-align: center;">
-  <p>李龙昊 23210980049 <a href="https://github.com/your-github-username" target="_blank">GitHub</a></p>
+  <p>李龙昊 23210980049 <a href="https://github.com/Decision9/cv_final_project" target="_blank">GitHub</a></p>
 </div>
 <div style="text-align: center;">
   <p>推荐使用html格式进行观看！！！！！，pdf无法展示视频效果。</p>
